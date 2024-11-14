@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example.commands","l":"AttackCommand"},{"p":"org.example","l":"BattleInvoker"},{"p":"org.example.commands","l":"Command"},{"p":"org.example.commands","l":"EscapeCommand"},{"p":"org.example.commands","l":"HealCommand"},{"p":"org.example","l":"Pokemon"}];updateSearchResults();
